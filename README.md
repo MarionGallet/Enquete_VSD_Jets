@@ -4,6 +4,7 @@
 ## Introduction
 
 ### Histoire du traçage des jets privés 
+
 Pour notre enquête, nous avons choisis de s’intéresser au traçage des données des jets privés. Notre étude commence aux origines du suivi des aéronefs. C’est la technologie du radar, développée par Heinrich Hertz en 1888, qui permet de détecter et d’assister les avions en vol. Le radar est d’abord utilisé dans un contexte militaire. Pendant la Seconde Guerre Mondiale, il permet aux anglais de détecter la trajectoire des avions allemands. Plus la technologie du radar s’est améliorée, plus le suivi des avions s’est développé. Nous détaillerons l’évolution des technologies qui permettent le traçage des aéronefs plus tard dans notre étude. Le flight tracking s’est développé au fil du temps grâce à la mobilisation de nombreux acteurs. 
 
 ### Les acteurs mobilisés 
@@ -14,11 +15,11 @@ La DSNA, la Direction des Services de la Navigation Aérienne, est un acteur maj
 
 **Les aéroports**
 
-Lorsque les vols commerciaux se démocratisent, les compagnies aériennes et les aéroports deviennent des acteurs majeurs du suivi des aéronefs. L’État des lieux des outils de visualisation des trajectoires et du bruit des avions indique que de nombreux aéroports ont mis en place des systèmes de traçage des aéronefs partant de leur tarmac depuis la levée de la réticence de la DGAC. Par exemple, le groupe ADP, Aéroports de Paris, a mis à disposition du public la plateforme Vitrail, qui permet de visualiser les trajets des vols au départ des aéroports parisiens ainsi que l'historique de leurs émissions sonores. 
+    Lorsque les vols commerciaux se démocratisent, les compagnies aériennes et les aéroports deviennent des acteurs majeurs du suivi des aéronefs. L’État des lieux des outils de visualisation des trajectoires et du bruit des avions indique que de nombreux aéroports ont mis en place des systèmes de traçage des aéronefs partant de leur tarmac depuis la levée de la réticence de la DGAC. Par exemple, le groupe ADP, Aéroports de Paris, a mis à disposition du public la plateforme Vitrail, qui permet de visualiser les trajets des vols au départ des aéroports parisiens ainsi que l'historique de leurs émissions sonores. 
 
 **Les sites de flight tracking en ligne** 
 
-Au début des années 2000, ce sont des sites privés qui commencent à recenser les trajets de vols des avions dans le monde entier. AirNav Systems est créé par deux ingénieurs américains en 2001. Leur site de tracking RadarBox permet de suivre la trajectoire de vols internationaux en direct. FlightRadar24 est créé en 2006 par deux suédois passionnés d’aviation. Ils développent le réseau de récepteur ADS-B, dont nous parlerons plus en détail dans la suite de notre étude. Ces deux plateformes sont en libre accès et incluent des services supplémentaires payants. 
+    Au début des années 2000, ce sont des sites privés qui commencent à recenser les trajets de vols des avions dans le monde entier. AirNav Systems est créé par deux ingénieurs américains en 2001. Leur site de tracking RadarBox permet de suivre la trajectoire de vols internationaux en direct. FlightRadar24 est créé en 2006 par deux suédois passionnés d’aviation. Ils développent le réseau de récepteur ADS-B, dont nous parlerons plus en détail dans la suite de notre étude. Ces deux plateformes sont en libre accès et incluent des services supplémentaires payants. 
 
 **Les extracteurs de données sur les réseaux sociaux**
 
